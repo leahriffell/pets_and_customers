@@ -1,5 +1,0 @@
-require 'minitest/autorun'
-require 'minitest/pride'
-require './lib/customer'
-require './lib/day_care'
-require './lib/pet'
